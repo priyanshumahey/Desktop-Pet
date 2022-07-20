@@ -1,0 +1,10 @@
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\bin\Debug\Transparent Test.exe.config
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\bin\Debug\Transparent Test.exe
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\bin\Debug\Transparent Test.pdb
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent Test.csproj.AssemblyReference.cache
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent_Test.Form1.resources
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent_Test.Properties.Resources.resources
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent Test.csproj.GenerateResource.cache
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent Test.csproj.CoreCompileInputs.cache
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent Test.exe
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Debug\Transparent Test.pdb
