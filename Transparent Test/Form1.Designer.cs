@@ -55,6 +55,7 @@ namespace Transparent_Test
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.TopMost = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 

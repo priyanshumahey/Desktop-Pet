@@ -17,7 +17,7 @@ namespace Transparent_Test
             InitializeComponent();
             this.BackColor = Color.LimeGreen;
             this.TransparencyKey = Color.LimeGreen;
-            //this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
         }
     }
 }
