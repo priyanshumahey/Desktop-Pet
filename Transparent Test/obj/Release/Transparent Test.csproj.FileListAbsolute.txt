@@ -7,3 +7,4 @@ C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Release\Transpa
 C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Release\Transparent Test.csproj.CoreCompileInputs.cache
 C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Release\Transparent Test.exe
 C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Release\Transparent Test.pdb
+C:\Users\priya\Documents\GitHub\Desktop-Pet\Transparent Test\obj\Release\Transparent Test.csproj.AssemblyReference.cache
